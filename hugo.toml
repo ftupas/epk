@@ -15,15 +15,21 @@ theme = 'split'
     heading = "Connect"
 
     [[params.links.list1.link]]
-      text = "Blog"
-      url = "#"
-      new_tab = true # new tab
+      text = "soundcloud"
+      url = "https://soundcloud.com/tanggero"
+      new_tab = true
 
     [[params.links.list1.link]]
-      text = "Email"
-      url = "#"
-      new_tab = false # Default, open at same tab
+      text = "instagram"
+      url = "https://www.instagram.com/freds_/"
+      new_tab = true
 
     [[params.links.list1.link]]
-      text = "Newsletter"
-      url = "#"
+      text = "email"
+      url = "mailto:dj.tanggero@gmail.com"
+      new_tab = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
