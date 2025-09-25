@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tanggero</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on tanggero</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long Text</title>
+      <link>//localhost:1313/long-text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/long-text/</guid>
+      <description>&lt;p&gt;Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu&#xA;sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat&#xA;a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac&#xA;venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede&#xA;quis nunc.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

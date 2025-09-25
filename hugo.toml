@@ -1,0 +1,29 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'tanggero'
+theme = 'split'
+
+[params.visual.image]
+  enable = true
+  file = "background.gif"
+  position = "center center"
+
+
+# Links List #1
+[[params.links]]
+  [params.links.list1]
+    heading = "Connect"
+
+    [[params.links.list1.link]]
+      text = "Blog"
+      url = "#"
+      new_tab = true # new tab
+
+    [[params.links.list1.link]]
+      text = "Email"
+      url = "#"
+      new_tab = false # Default, open at same tab
+
+    [[params.links.list1.link]]
+      text = "Newsletter"
+      url = "#"
