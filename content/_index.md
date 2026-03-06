@@ -18,16 +18,18 @@ grooves, tight floors. No filler, just friction.
 
 ### 2026
 
+- apr 3 - [ouranga](https://www.instagram.com/ouragan.amsterdam/)
+- mar 20 - [zèta drop in](https://www.instagram.com/zetadenhaag)
 - feb 13 - [ouranga](https://www.instagram.com/ouragan.amsterdam/)
 
 ### 2025
 
-- apr 26 -
-  [are we still friends x kingsday 2025](https://arewestillfriends.cyou)
-- jun 18 - [goodies siargao](https://www.instagram.com/goodies.siargao/?hl=en)
-- jul 10 - [mndlab x no.flac](https://ra.co/events/2199019)
-- aug 1 - [are we still friends x pride 2025](https://arewestillfriends.cyou)
-- aug 21 - [mndlab x no.flac](https://ra.co/events/2230632)
+- nov 27 - [sudden rave x de fik garden](https://www.instagram.com/suddenrave/)
 - sep 28 -
   [club alter3go x rotterdam pride](https://www.instagram.com/club.alter3g0/)
-- nov 27 - [sudden rave x de fik garden](https://www.instagram.com/suddenrave/)
+- aug 21 - [mndlab x no.flac](https://ra.co/events/2230632)
+- aug 1 - [are we still friends x pride 2025](https://arewestillfriends.cyou)
+- jul 10 - [mndlab x no.flac](https://ra.co/events/2199019)
+- jun 18 - [goodies siargao](https://www.instagram.com/goodies.siargao/?hl=en)
+- apr 26 -
+  [are we still friends x kingsday 2025](https://arewestillfriends.cyou)
