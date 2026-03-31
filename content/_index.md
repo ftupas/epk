@@ -18,9 +18,11 @@ grooves, tight floors. No filler, just friction.
 
 ### 2026
 
-- apr 3 - [ouranga](https://www.instagram.com/ouragan.amsterdam/)
+- apr 10 - [got drip](https://www.instagram.com/got.drip.ams/)
+- apr 3 - [ouragan](https://www.instagram.com/ouragan.amsterdam/)
+- apr 2 - [waterhouse studios](https://www.instagram.com/waterhousestudiosamsterdam/)
 - mar 20 - [zèta drop in](https://www.instagram.com/zetadenhaag)
-- feb 13 - [ouranga](https://www.instagram.com/ouragan.amsterdam/)
+- feb 13 - [ouragan](https://www.instagram.com/ouragan.amsterdam/)
 
 ### 2025
 
